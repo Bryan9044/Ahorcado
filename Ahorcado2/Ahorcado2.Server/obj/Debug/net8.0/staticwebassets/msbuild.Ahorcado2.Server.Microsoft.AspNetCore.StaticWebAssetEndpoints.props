@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Ahorcado2.Server/Palabras.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Palabras.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eKphWiFwMZYngj6p5139u\u002BJ6d8BxPm4AIiSiToleqro="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"714"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022eKphWiFwMZYngj6p5139u\u002BJ6d8BxPm4AIiSiToleqro=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:19:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ahorcado2.Server/Palabras.wq715ielba.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Palabras.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wq715ielba"},{"Name":"integrity","Value":"sha256-eKphWiFwMZYngj6p5139u\u002BJ6d8BxPm4AIiSiToleqro="},{"Name":"label","Value":"_content/Ahorcado2.Server/Palabras.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"714"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022eKphWiFwMZYngj6p5139u\u002BJ6d8BxPm4AIiSiToleqro=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:19:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

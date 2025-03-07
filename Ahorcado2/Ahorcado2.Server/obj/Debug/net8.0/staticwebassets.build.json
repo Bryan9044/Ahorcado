@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "Hash": "/4xvHlmoJFuDkCraOlsYvNiu997nZgHKZuSBrBrmJfw=",
+  "Source": "Ahorcado2.Server",
+  "BasePath": "_content/Ahorcado2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\ahorcado2.client.esproj",
+      "Version": 2,
+      "Source": "ahorcado2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ahorcado2.Server\\wwwroot",
+      "Source": "Ahorcado2.Server",
+      "ContentRoot": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\",
+      "BasePath": "_content/Ahorcado2.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\Palabras.json",
+      "SourceId": "Ahorcado2.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\",
+      "BasePath": "_content/Ahorcado2.Server",
+      "RelativePath": "Palabras#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wq715ielba",
+      "Integrity": "eKphWiFwMZYngj6p5139u+J6d8BxPm4AIiSiToleqro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Palabras.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Palabras.json",
+      "AssetFile": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\Palabras.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKphWiFwMZYngj6p5139u+J6d8BxPm4AIiSiToleqro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 06:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKphWiFwMZYngj6p5139u+J6d8BxPm4AIiSiToleqro="
+        }
+      ]
+    },
+    {
+      "Route": "Palabras.wq715ielba.json",
+      "AssetFile": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\Palabras.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKphWiFwMZYngj6p5139u+J6d8BxPm4AIiSiToleqro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 06:19:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wq715ielba"
+        },
+        {
+          "Name": "label",
+          "Value": "Palabras.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKphWiFwMZYngj6p5139u+J6d8BxPm4AIiSiToleqro="
+        }
+      ]
+    }
+  ]
+}
