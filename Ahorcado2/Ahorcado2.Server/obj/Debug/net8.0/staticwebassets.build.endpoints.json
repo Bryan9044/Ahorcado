@@ -83,6 +83,88 @@
           "Value": "Palabras.json"
         }
       ]
+    },
+    {
+      "Route": "estadisticas.bgihaesadj.json",
+      "AssetFile": "estadisticas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:51:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bgihaesadj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU="
+        },
+        {
+          "Name": "label",
+          "Value": "estadisticas.json"
+        }
+      ]
+    },
+    {
+      "Route": "estadisticas.json",
+      "AssetFile": "estadisticas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:51:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU="
+        }
+      ]
     }
   ]
 }

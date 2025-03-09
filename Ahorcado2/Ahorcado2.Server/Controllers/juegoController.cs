@@ -11,6 +11,10 @@ namespace BackendAhorcado.Controllers
 
         // Recibimos los datos del frontend por eso el post
         [HttpPost]
+        //Recibimos una lista de objetos de tipo Jugador del front
+        //Generamos un numero aleatorio entre el 1 y 2 para asignar el orden de los jugadores
+        //Creamos una instancia y pedimos una palabra aleatoria
+        //Ademas asignamos ciertos datos al jugador y devolvemos la lista de jugadores actualizados con un json
         public IActionResult CrearJugador([FromBody] List<Jugador> jugadores)
         {
             Random orden = new Random(); //Generamos un random
@@ -47,13 +51,17 @@ namespace BackendAhorcado.Controllers
 
     public class JuegoController
     {
-        private List<string> listaPalabras; // Variable para almacenar las palabras leídas
-        private readonly string archivoPalabras = "wwwroot/Palabras.json"; // Ruta de donde tenemos el json
+        private List<string> listaPalabras; 
+        private readonly string archivoPalabras = "wwwroot/Palabras.json"; // Ruta de las palabras
         public JuegoController()
         {
             // Leemos las palabras solo una vez cuando se instancia el controlador
             listaPalabras = LeerPalabras();
         }
+        //Vemos si existe el archivo
+        //Leemos y deserealizamos en un diccionario
+        //Verificamos si esta Palabras y si tiene algo
+        //Imprimos en consola y retornamos
         public List<string> LeerPalabras()
         {
             if (!File.Exists(archivoPalabras))
@@ -61,31 +69,30 @@ namespace BackendAhorcado.Controllers
                 throw new FileNotFoundException("El archivo de palabras no fue encontrado.");
             }
 
-            var json = File.ReadAllText(archivoPalabras); // Leemos el contenido del archivo JSON
-            var palabras = JsonConvert.DeserializeObject<Dictionary<string, List<string>>>(json); // Deserializamos a un Diccionario
+            var json = File.ReadAllText(archivoPalabras); 
+            var palabras = JsonConvert.DeserializeObject<Dictionary<string, List<string>>>(json); 
 
-            // Verificamos si la clave "Palabras" existe y contiene alguna palabra
             if (palabras == null || !palabras.ContainsKey("Palabras") || palabras["Palabras"].Count == 0)
             {
                 throw new InvalidOperationException("El archivo de palabras está vacío o mal formado.");
             }
 
-            Console.WriteLine("Palabras leídas: " + string.Join(", ", palabras["Palabras"]));  // Imprime las palabras leídas
-            return palabras["Palabras"]; // Retorna la lista de palabras
+            Console.WriteLine("Palabras leídas: " + string.Join(", ", palabras["Palabras"]));  
+            return palabras["Palabras"];
         }
 
-
+        //Lee las palabras desde el archivo, vemos si esta vacia, hacemos un numero aleatorio y retornamos la palabra de manera aleatoria
         public string ObtenerPalabraAleatoria()
         {
-            List<string> listaPalabras = LeerPalabras();//Aqui decimos que esa listaPalabras lea el archivo
+            List<string> listaPalabras = LeerPalabras();
             if (listaPalabras.Count == 0) //si la lista es igual a 0 enviamos una excepcion
             {
                 throw new InvalidOperationException("La lista de palabras está vacía.");
 
             }
-            Random palabraAleatoria = new Random(); //Creamos un random
-            int numPalabra = palabraAleatoria.Next(listaPalabras.Count);//Sacamos un número aleatorio
-            return listaPalabras[numPalabra]; //Retornamos la lista de palabras con el número aleatorio ahora si sacando la palabra
+            Random palabraAleatoria = new Random(); 
+            int numPalabra = palabraAleatoria.Next(listaPalabras.Count);
+            return listaPalabras[numPalabra]; 
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/4xvHlmoJFuDkCraOlsYvNiu997nZgHKZuSBrBrmJfw=",
+  "Hash": "Mj0oZ+ZzhPs542AWKmuM/cgcm7FW6hvfaXLfR9StOWs=",
   "Source": "Ahorcado2.Server",
   "BasePath": "_content/Ahorcado2.Server",
   "Mode": "Default",
@@ -29,6 +29,27 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\estadisticas.json",
+      "SourceId": "Ahorcado2.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\",
+      "BasePath": "_content/Ahorcado2.Server",
+      "RelativePath": "estadisticas#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bgihaesadj",
+      "Integrity": "VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estadisticas.json"
+    },
+    {
       "Identity": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\Palabras.json",
       "SourceId": "Ahorcado2.Server",
       "SourceType": "Discovered",
@@ -51,6 +72,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "estadisticas.bgihaesadj.json",
+      "AssetFile": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\estadisticas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bgihaesadj"
+        },
+        {
+          "Name": "label",
+          "Value": "estadisticas.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU="
+        }
+      ]
+    },
+    {
+      "Route": "estadisticas.json",
+      "AssetFile": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\estadisticas.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VQah55akAMuO8LBiT36yHiJOm7ZwVKnnVksRZAHq7mU="
+        }
+      ]
+    },
     {
       "Route": "Palabras.json",
       "AssetFile": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\Palabras.json",

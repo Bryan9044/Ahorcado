@@ -7,32 +7,24 @@
       "RelativeMoniker": "D:0:0:{5FF4E469-E302-4ED9-8E8A-4B19A53384DE}|ahorcado2.client\\ahorcado2.client.esproj|solutionrelative:ahorcado2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\models\\juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\models\\juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF4E469-E302-4ED9-8E8A-4B19A53384DE}|ahorcado2.client\\ahorcado2.client.esproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5FF4E469-E302-4ED9-8E8A-4B19A53384DE}|ahorcado2.client\\ahorcado2.client.esproj|solutionrelative:ahorcado2.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\controllers\\palabracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\controllers\\palabracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\controllers\\estadisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\controllers\\estadisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\controllers\\palabracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\controllers\\palabracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\controllers\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\ahorcado2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\ahorcado2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\ahorcado2.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\ahorcado2.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.server\\models\\juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2BCF2C-384A-4DBE-944C-D15B90DDC883}|Ahorcado2.Server\\Ahorcado2.Server.csproj|solutionrelative:ahorcado2.server\\models\\juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF4E469-E302-4ED9-8E8A-4B19A53384DE}|ahorcado2.client\\ahorcado2.client.esproj|c:\\users\\bryan\\source\\repos\\ahorcado2\\ahorcado2.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -56,7 +48,7 @@
               "RelativeDocumentMoniker": "ahorcado2.client\\src\\App.jsx",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\src\\App.jsx",
               "RelativeToolTip": "ahorcado2.client\\src\\App.jsx",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAwNYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-28T05:28:09.535Z",
               "IsPinned": true,
@@ -64,15 +56,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "juegoAhorcado.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Models\\juegoAhorcado.cs",
-              "RelativeDocumentMoniker": "Ahorcado2.Server\\Models\\juegoAhorcado.cs",
-              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Models\\juegoAhorcado.cs",
-              "RelativeToolTip": "Ahorcado2.Server\\Models\\juegoAhorcado.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Ahorcado2.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Program.cs",
+              "RelativeToolTip": "Ahorcado2.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T06:10:55.084Z"
+              "WhenOpened": "2025-03-09T08:28:26.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,81 +75,62 @@
               "RelativeDocumentMoniker": "Ahorcado2.Server\\Controllers\\palabraController.cs",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Controllers\\palabraController.cs",
               "RelativeToolTip": "Ahorcado2.Server\\Controllers\\palabraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:31:33.052Z"
+              "WhenOpened": "2025-03-09T08:18:59.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estadisticaController.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Controllers\\estadisticaController.cs",
+              "RelativeDocumentMoniker": "Ahorcado2.Server\\Controllers\\estadisticaController.cs",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Controllers\\estadisticaController.cs",
+              "RelativeToolTip": "Ahorcado2.Server\\Controllers\\estadisticaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:11:47.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "juegoAhorcado.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Models\\juegoAhorcado.cs",
+              "RelativeDocumentMoniker": "Ahorcado2.Server\\Models\\juegoAhorcado.cs",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Models\\juegoAhorcado.cs",
+              "RelativeToolTip": "Ahorcado2.Server\\Models\\juegoAhorcado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:38:38.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "juegoController.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Controllers\\juegoController.cs",
               "RelativeDocumentMoniker": "Ahorcado2.Server\\Controllers\\juegoController.cs",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Controllers\\juegoController.cs",
               "RelativeToolTip": "Ahorcado2.Server\\Controllers\\juegoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T06:10:46.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Ahorcado2.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Program.cs",
-              "RelativeToolTip": "Ahorcado2.Server\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T17:21:32.872Z"
+              "WhenOpened": "2025-02-28T06:10:46.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Ahorcado2.Server.csproj",
-              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Ahorcado2.Server.csproj",
-              "RelativeDocumentMoniker": "Ahorcado2.Server\\Ahorcado2.Server.csproj",
-              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Ahorcado2.Server.csproj",
-              "RelativeToolTip": "Ahorcado2.Server\\Ahorcado2.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T06:51:03.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ahorcado2.Server.http",
-              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Ahorcado2.Server.http",
-              "RelativeDocumentMoniker": "Ahorcado2.Server\\Ahorcado2.Server.http",
-              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\Ahorcado2.Server.http",
-              "RelativeToolTip": "Ahorcado2.Server\\Ahorcado2.Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-28T06:45:46.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\src\\index.css",
-              "RelativeDocumentMoniker": "ahorcado2.client\\src\\index.css",
-              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\src\\index.css",
-              "RelativeToolTip": "ahorcado2.client\\src\\index.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-28T05:28:08.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\src\\App.css",
               "RelativeDocumentMoniker": "ahorcado2.client\\src\\App.css",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\ahorcado2.client\\src\\App.css",
               "RelativeToolTip": "ahorcado2.client\\src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-28T05:28:06.035Z"
+              "WhenOpened": "2025-02-28T05:28:06.035Z",
+              "EditorCaption": ""
             }
           ]
         }

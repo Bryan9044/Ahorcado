@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-
+//Aqui lo que hacemos es esperar que nos llame el front para poder enviar una nueva palabra, lo unico que hacemos es reutilizar la funcion de palabra
+// y se la enviamos en un json
 namespace BackendAhorcado.Controllers
 {
     [Route("api/[controller]")]
@@ -18,13 +19,12 @@ namespace BackendAhorcado.Controllers
         {
             try
             {
-                // Llamamos al método que obtiene una palabra aleatoria
+
                 string nuevaPalabra = _juegoController.ObtenerPalabraAleatoria();
-                return Ok(new { palabra = nuevaPalabra }); // Retornamos la palabra en formato JSON
+                return Ok(new { palabra = nuevaPalabra }); 
             }
             catch (Exception ex)
             {
-                // Si ocurre un error, lo capturamos y devolvemos un mensaje de error
                 return BadRequest(new { mensaje = "Error al obtener nueva palabra", error = ex.Message });
             }
         }

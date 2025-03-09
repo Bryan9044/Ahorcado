@@ -7,12 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 //builder.Services.AddScoped<JuegoController>();
 
-// Habilitar CORS (con política de acceso desde el frontend)
+// Habilitamos cors con todos los permisos
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend",
-        policy => policy.AllowAnyOrigin()  // Permitir cualquier origen. Cambia esto por algo más restrictivo en producción.
-                    .AllowAnyMethod()  // Permitir cualquier método HTTP (GET, POST, etc.)
+        policy => policy.AllowAnyOrigin()  // Permitir cualquier origen
+                    .AllowAnyMethod()  // Permitimos cualquier metodos
                     .AllowAnyHeader()); // Permitir cualquier encabezado en la solicitud
 });
 

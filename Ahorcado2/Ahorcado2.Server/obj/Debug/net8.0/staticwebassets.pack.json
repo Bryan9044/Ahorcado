@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Palabras.json"
     },
     {
+      "Id": "C:\\Users\\bryan\\source\\repos\\Ahorcado2\\Ahorcado2.Server\\wwwroot\\estadisticas.json",
+      "PackagePath": "staticwebassets\\estadisticas.json"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ahorcado2.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
