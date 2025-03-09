@@ -1,2 +1,0 @@
-wwwroot\estadisticas.json
-wwwroot\Palabras.json
